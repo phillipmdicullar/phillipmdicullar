@@ -55,7 +55,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phillipmdicullar&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phillipmdicullar&theme=youtube-dark&border_radius=4.4&mode=weekly&card_width=500)](https://git.io/streak-stats)
-<p style={color:green;}>Huh [🥰]</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipmdicullar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- - 👋 Hi, I’m @phillipmdicullar a software developer and bug bounty enthusiast, 
 - 👀 I’m interested in programming, Penetration testing and bug bounty hunting...
