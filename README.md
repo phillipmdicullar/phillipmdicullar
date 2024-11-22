@@ -21,7 +21,8 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=22F700&width=1000&lines=When%20I%20wrote%20this%20code,%20only%20God%20and%20I%20understood%20what%20I%20did.%20Now%20only%20God%20knows." style="max-width:100%;"/>
 </div>
 ---
 
