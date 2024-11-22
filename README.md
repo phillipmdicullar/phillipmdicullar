@@ -1,7 +1,7 @@
 <div id="center" align="center">
 <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VjdjBoMXY4dHUwOTBleDUxOTgxNXZwYzZlMmw1czY4M24wenhmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AeHLxU7TZXCPS/giphy.gif" width="50%"> -->
 <!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xubWJuY2U4aGthMmNqejk4aW83eTYzYXBiNGwxeG9zdnprZ3dsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
-<img src="https://i.gifer.com/3Irx.gif" width="100%" height="30%"/>
+<img src="https://i.gifer.com/3Irx.gif" width="50%" height="30%"/>
 
 </div>
 <div id="badges" align="center">
